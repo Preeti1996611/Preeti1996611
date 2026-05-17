@@ -15,7 +15,7 @@ I enjoy solving business problems using **Data Analytics, Visualization, and Rep
 * 👯 Looking to collaborate on **Analytics & Data Visualization Projects**
 * 🤝 Seeking opportunities to work on **Real-World Data Science Projects**
 * 💬 Ask me about **Power BI, SQL, Excel, and Data Cleaning**
-* 📫 Reach me at: **[preetiadivashi2025@gmail.com](mailto:preetiadivashi2025@gmail.com)**
+* 📫 Reach me at: **[preetiadivashi159@gmail.com](mailto:preetiadivashi159@gmail.com)**
 * 😄 Pronouns: **She/Her**
 * ⚡ Fun Fact: **I love turning raw data into impactful stories through dashboards 📈**
 
