@@ -60,12 +60,6 @@ I enjoy solving business problems using **Data Analytics, Visualization, and Rep
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Preeti1996611&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Preeti1996611\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Preeti1996611\&layout=compact\&theme=tokyonight)
-
 ---
 
 
@@ -103,8 +97,5 @@ I enjoy solving business problems using **Data Analytics, Visualization, and Rep
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Preeti1996611&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Preeti1996611&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
